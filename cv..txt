@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" 
+    content="width=device-width, 
+    initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+</head>
+<body>
+    <!--header-->
+    <header>
+        <table>
+            <tr>
+                <td>
+                    <img src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/326182231_1002991670661852_4578374744957826512_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHYgGr6oVAJxXzkyx4jtjqm7zGW4rx0enjvMZbivHR6eCyxzmpPMKMlLjBWAMWG9_2K4CkAzYdMwu7n8p_B7oZn&_nc_ohc=GKn-_e0PiykAX8xka53&_nc_ht=scontent.fmnl9-4.fna&oh=00_AfDyxFGZXLWU9j5Qh2HwiBYmW2TL2QwfIqWKizvySbHBNg&oe=63FEB204" alt=""width="127px"
+                </td>
+                <td>
+                    <h1> Rea Christine H. Coquilla </h1>
+                    <h3> Student </h3>
+                </td>
+            </tr>
+        </table>
+    </header>
+    <!-- Personal Details -->
+    <section>
+        <h2> Personal Details </h2>
+        <hr>
+        <table>
+            <tr>
+                <td>
+                    <h3> Birthday </h3>
+                </td>
+                <td>
+                    <p> May 23,2002 </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3> Sex </h3>
+                </td>
+                <td>
+                    <p> Female </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3> Address </h3>
+                </td>
+                <td> 
+                    <p> Bungahan, Antequera, Bohol- Philippines </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3> Email Address </h3>
+                </td>
+                <td>
+                    <p> reachristinecoquilla@gmail.com </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3> Phone Number </h3>
+                </td>
+                <td>
+                    <p> 09093559948 </p>
+                </td>
+            </tr>
+        </table>
+    </section>
+    <br>
+    <!-- education -->
+    <section>
+        <h2> Education </h2>
+        <hr>
+        <table border="2px">
+            <tr>
+                <td>
+                    <strong> Tertiary-Present </strong>                  
+                </td>
+                <td>
+                    <p> Bohol Island State University- Balilihan Campus </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong> SHS </strong>
+                </td>
+                <td>
+                    <p> Bantolinao National High School- SHS </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong> JHS </strong>
+                </td>
+                <td> 
+                    <p>  Bantolinao National High School- JHS </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong> Elementary  </strong>
+                </td>
+                <td>
+                    <p> Bungahan Elementary School </p>
+                </td>
+            </tr>
+        </table>
+    </section>
+    <br>
+    <!--Skills -->
+    <section>
+        <h2> Core Skills </h2>
+        <hr>
+    <ul>
+        <li><strong>Sketch Up</li><strong> </li>
+        <li><strong>Adobe Photoshop</li><strong> </li>
+    </ul>
+    </section>
+    <br>
+    <!--Job Experience-->
+    <section>
+        <h2> Job Experience </h2>
+        <hr>
+     <ul>
+         <li><strong>Work Imersion</li><strong> </li>
+    </ul>
+    </section>
+    <br>
+    <!--Trainings and Seminar Attended-->
+    <section>
+        <h2> Training & Seminars </h2>
+        <hr>
+        <table border="2px">
+            <tr>
+                <td>
+                    <h3> Trainings </h3>
+        <ul>
+            <li> Senior High School Work Imersion </li>
+            <li> Hope Medical Relief </li>
+        </ul>
+          </td>
+           <td>
+                <h3> Seminars </h3>
+         <ul>
+            <li> Drug Symposium </li>
+            <li> Overcoming Adversity in the Context of Bullying & Disability Awareness( March ) </li> 
+            <li> Strength Based Sharing for Flourishing New Normal (October 2020) </li>
+         </ul>       
+        </td>
+    </table>
+        <!-- Organization -->
+    <section>
+        <h2> Organization </h2>
+        <hr>
+        <table>
+            <tr>
+                <td>
+                    <strong> BISU Organization </strong>                  
+                </td>
+                <td>
+                    <p> Choosen Generation Organization </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong> Bungahan Sk </strong>
+                </td>
+                <td>
+                    <p> Sangguniang Kabataan</td</p>
+                </td>
+            </tr>
+</body>
+</html>
